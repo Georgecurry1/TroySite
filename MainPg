@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  
+<head>
+<title>Main</title>
+</head>
+  
+<Body>
+<h1> Troy University </h1>
+<p> 
+  This is the main page of the computer science department. 
+  Click the links below to go to other pages. 
+</p>
+</Body>
+ <nav>
+  <a href="/Faculty.html">Faculty/Staff</a> |
+  <a href="/Courses.html">Courses</a> |
+  <a href="/Application.html">Application/Admission</a> |
+  <a href="/About.html">About us</a>
+ </nav>
+      
+
+</html>
