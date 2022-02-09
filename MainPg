@@ -1,23 +1,27 @@
 <!DOCTYPE html>
-<html>
-  
-<head>
+<html lang="en">
+<meta charset="UTF-8"><!--char encoding-->
 <title>Main</title>
-</head>
+
+<link rel="stylesheet" href="Style.css">
+
   
-<Body>
-<h1> Troy University </h1>
-<p> 
-  This is the main page of the computer science department. 
-  Click the links below to go to other pages. 
+<Body class="bkimg">
+<h1 class ="alpha"> Troy University </h1>
+<p class= "charlie"> 
+  This is the main page of the computer science department.<br> 
+  Click the links below to go to other pages. <br> 
 </p>
-</Body>
+<img class="floatRight" src="https://sportslogohistory.com/wp-content/uploads/2019/02/troy_trojans_2004-pres_a.png" alt="oops"
+  style="width: 400px; height: 400px;">><!--image from bing(troy logo)-->
+
+
  <nav>
-  <a href="/Faculty.html">Faculty/Staff</a> |
-  <a href="/Courses.html">Courses</a> |
-  <a href="/Application.html">Application/Admission</a> |
-  <a href="/About.html">About us</a>
+  <a href="/Faculty.html" class="beta">Faculty/Staff </a><br><br>
+  <a href="/Courses.html" class="beta">Courses</a><br><br>
+  <a href="/Application.html" class="beta">Application/Admission</a><br><br>
+  <a href="/About.html" class="beta">About us</a><br>
  </nav>
-      
+</Body>
 
 </html>
