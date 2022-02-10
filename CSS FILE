@@ -1,0 +1,95 @@
+/*made by george curry*/
+.alpha
+{
+    color:red;
+    text-align: center;
+    text-shadow: 2px 2px 3px black;/*horiz, vert, blur, color*/
+    font-weight: bold;
+    font-size: 55px;
+    font-family: 'Lucida Sans';
+    border-top-style: solid;
+    border-top-width: 7px;
+    border-color: red;
+    background-color: rgb(133, 126, 127);
+    
+}
+
+.beta
+{
+    color:black;
+    text-align: left;
+    font-weight: bold;
+    font-family: 'Lucida Sans';/*font type*/
+    font-size: 25px;
+    border-left-style:solid;
+    border-left-width: 4px;
+    border-color: red;
+    background-color:rgb(133, 126, 127);
+   
+}
+
+.charlie
+{
+    color:rgb(255, 255, 255);
+    text-align: left;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Lucida Sans';/*font type*/
+    text-shadow: 3px 3px 5px rgb(255, 0, 0);/*horiz, vert, blur, color*/
+   
+}
+
+.delta
+{
+    color:rgb(255, 255, 255);
+    text-align: left;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Lucida Sans';/*font type*/
+    text-shadow: 3px 3px 5px rgb(255, 0, 0);/*horiz, vert, blur, color*/
+}
+
+table
+{
+    width: auto;
+    height: auto;
+}
+th
+{
+    color:red;
+    text-shadow: 2px 2px 3px black;/*horiz, vert, blur, color*/
+    background-color: grey;
+    text-align: center;
+}
+table, th, td 
+{
+    border: 3px solid rgb(255, 255, 255);
+    border-collapse: collapse;
+}
+
+button
+{
+    background-color: white;
+    color: rgb(255, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 25px;
+}
+
+.floatRight
+{float:right;margin-left:100px}
+
+.bkimg
+{
+    background-image: url("https://wallpapertag.com/wallpaper/full/5/d/c/426795-widescreen-red-and-black-abstract-backgrounds-1920x1200-full-hd.jpg");
+}
+
+
+  
+
+
+body
+{
+    background-color: rgb(145, 72, 86);
+}
